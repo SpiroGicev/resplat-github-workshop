@@ -5,5 +5,6 @@ Author: Vivek Katial
 '''
 
 last_name = "Katial"
+first_name = "Vivek"
 
-print(last_name)
+print(first_name + last_name)
