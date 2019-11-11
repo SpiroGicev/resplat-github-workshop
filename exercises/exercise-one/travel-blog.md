@@ -27,6 +27,10 @@ These are the the seven continents:
 4. Europe
 5. Africa
 6. Antarctica
+7. Australia
+8. Zealandia
+9. Garberia
+
 
 ## Last Trip
 
